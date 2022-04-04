@@ -9,8 +9,8 @@ I'm an aspirant IOS Engineer with a Java, React Native and NodeJS development ba
 
 <div align="center">
   <a href="https://github.com/gabriel-lucas-sl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-lucas-sl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lucas-sl&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-lucas-a-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lucas-a-silva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
    ## Technologies
