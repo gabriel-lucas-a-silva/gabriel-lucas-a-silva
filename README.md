@@ -4,7 +4,7 @@ Hey,
 
 I'm Gabriel Lucas, but feel free to call me Gabe =)
 <br>
-I'm a Junior Software Engineer with some knowledges in Java, IOS and React Native development. 
+I'm a Junior Software Engineer with some knowledges in Java, ReactJS, IOS and React Native development. 
 <br><br>
 PS: I have other github account that I used to use when I was in college. So, if you'd like to see some of my academic projects and so on, feel free to check it out by clicking <a href="https://github.com/gabriel-lucas-sl">here</a> 🙃
 
